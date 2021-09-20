@@ -7,3 +7,4 @@ Interact with the POC [here](https://caravan-travel-network.herokuapp.com/)
 
 ![gg1](https://user-images.githubusercontent.com/42770126/134045740-95baa30a-ad97-4a7e-9b68-fe26f078ed30.png)
 ![gg3](https://user-images.githubusercontent.com/42770126/134045952-a7422058-bae6-4b33-8081-181d198063d3.png)
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/42770126/134048609-012ae603-8d6c-4d3a-8af4-ad46a87382ee.png)
